@@ -1,0 +1,1 @@
+["/Users/haohailiang/Desktop/vscode-extension-demo/vscode-texteditor-util-master","/Users/haohailiang/Desktop/vscode-extension-demo/helloworld-sample","/Users/haohailiang/mining-lamp/43-精准培训/code/lingting-sop-h5"]
